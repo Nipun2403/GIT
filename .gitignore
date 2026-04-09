@@ -1,0 +1,8 @@
+*.log
+*.temp
+/task2/temp
+dont_include.txt
+
+
+
+
