@@ -1,2 +1,2 @@
-This line is written in the righ branch of the repository
+This line is written in the left branch of the repository
 
